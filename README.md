@@ -12,3 +12,6 @@
 
 ## Known Issues
 - When HDMI display is connected and ST7789 display code is used, it doesnt work
+
+## Circuit Python Essentials
+- https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/main/CircuitPython_Essentials

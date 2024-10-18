@@ -15,3 +15,10 @@
 
 ## Circuit Python Essentials
 - https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/main/CircuitPython_Essentials
+
+## Audio Examples
+- https://learn.adafruit.com/i2s-amplifier-bff/circuitpython
+- https://docs.circuitpython.org/en/latest/shared-bindings/audiobusio/
+- https://learn.adafruit.com/adafruit-max98357-i2s-class-d-mono-amp/circuitpython-wiring-test
+- https://embeddedcomputing.com/technology/open-source/i2s-volume-control-with-raspberry-pi-pico-and-circuitpython
+- https://www.reddit.com/r/circuitpython/comments/z8uuym/i2s_audio_output_software_volume_control/
